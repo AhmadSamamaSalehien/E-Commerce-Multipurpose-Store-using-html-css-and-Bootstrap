@@ -1,0 +1,786 @@
+html, body 
+
+    {
+
+        width: 100%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+
+    }
+
+.s1
+
+    {
+
+        background-image: url(Earth-Store-i3.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: auto;
+        width: 100%;
+
+    }
+
+.topnav1
+
+    {
+
+        height: 100px;
+
+    }
+
+.topnav1-c1
+
+    {
+
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 100px;
+        width: 100%;
+
+    }
+
+.topnav1-c1-1
+
+    {
+
+        height: 80px;
+        width: 40%;
+        align-items: center;
+        padding-left: 9%;
+        margin-top: 3.6%;
+
+    }
+
+.topnav1-h1
+
+    {
+
+        font-size: 22px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
+        letter-spacing: 5px;
+
+    }
+
+.topnav1-c1-2
+
+    {
+
+        display: flex;
+        width: 50%;
+        height: 80px;
+        align-items: center;
+
+    }
+
+.topnav-buttons
+
+    {
+
+        justify-content: space-around;
+        margin-left: 11%;
+
+    }
+
+.topnav-buttons:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+
+.tnb1
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        transition: color .3s ease;
+
+    }
+
+.tnb1:hover
+
+    {
+
+        color: darkgreen;
+        cursor: pointer;
+
+    }
+
+.tnb2
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        transition: color .3s ease;
+
+    }
+
+.tnb2:hover
+
+    {
+
+        color: darkgreen;
+        cursor: pointer;
+
+    }
+
+.tnb3
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        transition: color .3s ease;
+
+    }
+
+.tnb3:hover
+
+    {
+
+        color: darkgreen;
+        cursor: pointer;
+
+    }
+
+.tnb4
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        color: darkgreen;
+
+    }
+
+.tnb4:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+.topnav1-cart-user
+
+    {
+
+        justify-content: space-around;
+        margin-left: 4%;
+
+    }
+
+.fa-bag-shopping
+
+    {
+
+        padding: 10px;
+        font-size: x-large;
+
+    }
+
+.fa-bag-shopping:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+.fa-user
+
+    {
+
+        padding: 10px;
+        font-size: x-large;
+        margin-left: 10px;
+
+    }
+
+.fa-user:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+.s1-c2-1
+
+    {
+
+        height: auto;
+        width: 100%;
+        padding-bottom: 240px;
+
+    }
+
+.s1-c2-h1
+
+    {
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 75px;
+        letter-spacing: 15px;
+        margin-top: 140px;
+        font-weight: 100;
+        color: darkgreen;
+
+    }
+
+.s2 .container
+
+    {
+
+        margin-top: 110px;
+        width: 80%;
+        margin-bottom: 130px;
+
+    }
+
+.form1
+
+    {
+
+        box-shadow: 0px 0px 12px grey;
+        padding: 12px;
+        background-color: rgb(251, 251, 251);
+
+    }
+
+.s2f1h1
+
+    {
+
+        font-size: 36px;
+        letter-spacing: .5px;
+        margin-bottom: 40px;
+
+    }
+
+.form1-c1
+
+    {
+
+        height: auto;
+        width: 100%;
+        background-color: white;
+        padding: 50px;
+
+    }
+
+.s2f1i1
+
+    {
+
+        border: 1px solid lightgray;
+        height: 60px;
+        width: 100%;
+        font-size: 17px;
+        padding: 15px;
+        margin-top: 10px;
+
+    }
+
+.s2f1i2
+
+    {
+
+        border: 1px solid lightgray;
+        height: 60px;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 17px;
+        padding: 15px;
+
+    }
+
+.s2f1i3
+
+    {
+
+        border: 1px solid lightgray;
+        height: 60px;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 17px;
+        padding: 15px;
+
+    }
+
+.s2f1i4
+
+    {
+
+        border: 1px solid lightgray;
+        height: 60px;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 17px;
+        padding: 15px;
+
+    }
+
+.s2f1b1
+
+    {
+
+        float: left;
+        margin-top: 20px;
+        height: 45px;
+        width: 145px;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        border: none;
+        background-color: rgb(103, 183, 103);
+        color: white;
+        transition: background-color .3s ease;
+
+    }
+
+.s2f1b1:hover
+
+    {
+
+        cursor: pointer;
+        background-color: darkgreen;
+
+    }
+
+.s2c2
+
+    {
+
+        height: auto;
+        width: 100%;
+        padding-left: 50px;
+        padding-top: 10px;
+
+    }
+
+.s2c2h1
+
+    {
+
+        font-size: 36px;
+        letter-spacing: .5px;
+        margin-bottom: 40px;
+
+    }
+
+.contacts1
+
+    {
+
+        width: 100%;
+        margin-top: 50px;
+
+    }
+
+.email
+
+    {
+
+        display: flex;
+
+    }
+
+.fa-envelope
+
+    {
+
+        font-size: larger;
+        background-color: white;
+        padding: 12px;
+        border: 1px solid rgb(103, 183, 103);
+        border-radius: 50%;
+
+    }
+
+.email-heading-address
+
+    {
+
+        margin-left: 4%;
+
+    }
+
+.email-heading
+
+    {
+
+        font-size: 16.5px;
+        color: grey;
+
+    }
+
+.email-address
+
+    {
+
+        font-size: 23px;
+        letter-spacing: 1px;
+        font-weight: 300;
+        margin-top: -7px;
+
+    }
+
+.contacts2
+
+    {
+
+        width: 100%;
+        margin-top: 35px;
+
+    }
+
+.phone
+
+    {
+
+        display: flex;
+
+    }
+
+.fa-phone
+
+    {
+
+        font-size: larger;
+        background-color: white;
+        padding: 12px;
+        border: 1px solid rgb(103, 183, 103);
+        border-radius: 50%;
+
+    }
+
+.phone-heading-number
+
+    {
+
+        margin-left: 4%;
+
+    }
+
+.phone-heading
+
+    {
+
+        font-size: 16.5px;
+        color: grey;
+
+    }
+
+.phone-number
+
+    {
+
+        font-size: 23px;
+        letter-spacing: 1px;
+        font-weight: 300;
+        margin-top: -7px;
+
+    }
+
+.contacts3
+
+    {
+
+        width: 100%;
+        margin-top: 35px;
+
+    }
+
+.address
+
+    {
+
+        display: flex;
+
+    }
+
+.fa-location-dot
+
+    {
+
+        font-size: larger;
+        background-color: white;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 14px;
+        padding-right: 14px;
+        border: 1px solid rgb(103, 183, 103);
+        border-radius: 50%;
+
+    }
+
+.address-heading-address
+
+    {
+
+        margin-left: 4%;
+
+    }
+
+.address-heading
+
+    {
+
+        font-size: 16.5px;
+        color: grey;
+
+    }
+
+.address-address
+
+    {
+
+        font-size: 23px;
+        letter-spacing: 1px;
+        font-weight: 300;
+        margin-top: -7px;
+
+    }
+
+.contacts4
+
+    {
+
+        width: 100%;
+        margin-top: 25px;
+        margin-left: 12.5%;
+
+    }
+
+.social-media-heading
+
+    {
+
+        font-size: larger;
+
+    }
+
+.social-media-icons
+
+    {
+
+        display: flex;
+        width: 35%;
+        justify-content: space-between;
+        margin-top: 25px;
+
+    }
+
+.fa-facebook-f
+
+    {
+
+        color: white;
+        background-color: rgb(103, 183, 103);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 13px;
+        padding-right: 13px;
+        border-radius: 50%;
+        transition: background-color .3s ease;
+
+    }
+
+.fa-facebook-f:hover
+
+    {
+
+        cursor: pointer;
+        background-color: darkgreen;
+
+    }
+
+.fa-twitter
+
+    {
+
+        color: white;
+        background-color: rgb(103, 183, 103);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10.5px;
+        padding-right: 10.5px;
+        border-radius: 50%;
+        transition: background-color .3s ease;
+
+    }
+
+.fa-twitter:hover
+
+    {
+
+        cursor: pointer;
+        background-color: darkgreen;
+
+    }
+
+.fa-linkedin-in
+
+    {
+
+        color: white;
+        background-color: rgb(103, 183, 103);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 11px;
+        padding-right: 11px;
+        border-radius: 50%;
+        transition: background-color .3s ease;
+
+    }
+
+.fa-linkedin-in:hover
+
+    {
+
+        cursor: pointer;
+        background-color: darkgreen;
+
+    }
+
+.fa-play
+
+    {
+
+        color: white;
+        background-color: rgb(103, 183, 103);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 12px;
+        padding-right: 12px;
+        border-radius: 50%;
+        transition: background-color .3s ease;
+
+    }
+
+.fa-play:hover
+
+    {
+
+        cursor: pointer;
+        background-color: darkgreen;
+
+    }
+
+.s2l1
+
+    {
+
+        width: 100%;
+        background-color: rgb(167, 167, 167);
+        border: none;
+        height: 1px;
+
+    }
+
+.s3 .container
+
+    {
+
+        margin-top: 35px;
+        width: 85%;
+        margin-bottom: 20px;
+
+    }
+
+.s3c1b1
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s3c1b2
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s3c1b3
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s3c1b4
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s3h1
+
+    {
+
+        font-size: larger;
+        font-weight: 600;
+        letter-spacing: 2px;
+
+
+    }
+
+.s3c3p1
+
+    {
+
+        font-weight: 300;
+
+    }
+
+

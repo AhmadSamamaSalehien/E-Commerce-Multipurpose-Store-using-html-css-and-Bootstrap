@@ -1,0 +1,464 @@
+html, body 
+
+    {
+
+        width: 100%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+
+    }
+
+.s1
+
+    {
+
+        background-image: url(Earth-Store-i3.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: auto;
+        width: 100%;
+
+    }
+
+.topnav1
+
+    {
+
+        height: 100px;
+
+    }
+
+.topnav1-c1
+
+    {
+
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 100px;
+        width: 100%;
+
+    }
+
+.topnav1-c1-1
+
+    {
+
+        height: 80px;
+        width: 40%;
+        align-items: center;
+        padding-left: 9%;
+        margin-top: 3.6%;
+
+    }
+
+.topnav1-h1
+
+    {
+
+        font-size: 22px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
+        letter-spacing: 5px;
+
+    }
+
+.topnav1-c1-2
+
+    {
+
+        display: flex;
+        width: 50%;
+        height: 80px;
+        align-items: center;
+
+    }
+
+.topnav-buttons
+
+    {
+
+        justify-content: space-around;
+        margin-left: 11%;
+
+    }
+
+.topnav-buttons:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+
+.tnb1
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        transition: color .3s ease;
+
+    }
+
+.tnb1:hover
+
+    {
+
+        color: darkgreen;
+        cursor: pointer;
+
+    }
+
+.tnb2
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        color: darkgreen;
+
+    }
+
+.tnb2:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+.tnb3
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        transition: color .3s ease;
+
+    }
+
+.tnb3:hover
+
+    {
+
+        color: darkgreen;
+        cursor: pointer;
+
+    }
+
+.tnb4
+
+    {
+
+        height: 100px;
+        width: auto;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-left: 13px;
+        border: none;
+        background-color: transparent;
+        transition: color .3s ease;
+
+    }
+
+.tnb4:hover
+
+    {
+
+        color: darkgreen;
+        cursor: pointer;
+
+    }
+
+.topnav1-cart-user
+
+    {
+
+        justify-content: space-around;
+        margin-left: 4%;
+
+    }
+
+.fa-bag-shopping
+
+    {
+
+        padding: 10px;
+        font-size: x-large;
+
+    }
+
+.fa-bag-shopping:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+.fa-user
+
+    {
+
+        padding: 10px;
+        font-size: x-large;
+        margin-left: 10px;
+
+    }
+
+.fa-user:hover
+
+    {
+
+        cursor: pointer;
+
+    }
+
+.s1-c2-1
+
+    {
+
+        height: auto;
+        width: 100%;
+        padding-bottom: 240px;
+
+    }
+
+.s1-c2-h1
+
+    {
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 75px;
+        letter-spacing: 15px;
+        margin-top: 140px;
+        font-weight: 100;
+        color: darkgreen;
+
+    }
+
+.s2 .container
+
+    {
+
+        width: 80%;
+        margin-top: 140px;
+        margin-bottom: 110px;
+
+    }
+
+.s2-c1
+
+    {
+
+        height: auto;
+        width: 100%;
+
+    }
+
+.s2-c1-img
+
+    {
+
+        height: 100%;
+        width: 100%;
+
+    }
+
+.s2-c2
+
+    {
+
+        padding: 65px;
+
+    }
+
+.s2-c2-p1
+
+    {
+
+        margin-top: 20px;
+        font-size: 16.5px;
+        letter-spacing: .1px;
+        font-weight: 300;
+        line-height: 30px;
+
+    }
+
+.s2-c2-p2
+
+    {
+
+        margin-top: 20px;
+        font-size: 16.5px;
+        letter-spacing: .1px;
+        font-weight: 300;
+        line-height: 30px;
+
+    }
+
+.s3
+
+    {
+
+        height: auto;
+        width: 100%;
+        background-image: url(Earth-Store-i3.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-bottom: 1px solid rgb(200, 200, 200);
+
+    }
+
+.s3-c1
+
+    {
+
+        padding-top: 100px;
+        height: auto;
+        width: 100%;
+        padding-bottom: 100px;
+
+    }
+
+.s3h1
+
+    {
+
+        font-size: 40px;
+        letter-spacing: 7px;
+        margin-bottom: 20px;
+
+    }
+
+.s3p1
+
+    {
+
+        font-size: large;
+        font-weight: 300;
+
+    }
+
+.s3b1
+
+    {
+
+        height: 45px;
+        width: 285px;
+        font-size: medium;
+        font-weight: 300;
+        letter-spacing: 3px;
+        margin-top: 25px;
+        border: none;
+        background-color: rgb(103, 183, 103);
+        color: white;
+        transition: background-color .3s ease;
+
+    }
+
+.s3b1:hover
+
+    {
+
+        cursor: pointer;
+        background-color: darkgreen;
+
+    }
+
+.s4 .container
+
+    {
+
+        margin-top: 35px;
+        width: 85%;
+        margin-bottom: 20px;
+
+    }
+
+.s4c1b1
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s4c1b2
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s4c1b3
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s4c1b4
+
+    {
+
+        border: none;
+        background-color: transparent;
+        font-size: medium;
+        font-weight: 300;
+
+    }
+
+.s4h1
+
+    {
+
+        font-size: larger;
+        font-weight: 600;
+        letter-spacing: 2px;
+
+
+    }
+
+.s4c3p1
+
+    {
+
+        font-weight: 300;
+
+    }
+
+
